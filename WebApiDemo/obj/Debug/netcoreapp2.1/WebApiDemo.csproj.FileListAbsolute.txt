@@ -1,0 +1,14 @@
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.deps.json
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.runtimeconfig.json
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.runtimeconfig.dev.json
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.dll
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.pdb
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.csproj.CoreCompileInputs.cache
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.RazorAssemblyInfo.cache
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.RazorAssemblyInfo.cs
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.AssemblyInfoInputs.cache
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.AssemblyInfo.cs
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.RazorTargetAssemblyInfo.cache
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.dll
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.pdb
+D:\C#\EnginDemirov\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.csprojAssemblyReference.cache
